@@ -4,7 +4,9 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
+      <Head lang="pt-BR">
+        <meta charset="UTF-8" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
         <title>Marco Aurélio - Designer de interface</title>
         <meta
           name="description"
