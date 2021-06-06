@@ -6,6 +6,10 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Marco Aurélio - Designer de interface</title>
+        <meta
+          name="description"
+          content="Designer de interface focado em produtos digitais, atualmente atuando como UI Designer"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
