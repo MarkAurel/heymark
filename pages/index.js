@@ -18,7 +18,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Hey Mark!</h1>
 
-        <p className={styles.description}>Designer de interface</p>
+        <p className={styles.description}>Olá! Sou Marco Aurélio, designer Brasileiro focado em Interface do usuário.</p>
       </main>
 
       <footer className={styles.footer}>
